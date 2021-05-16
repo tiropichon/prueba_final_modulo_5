@@ -1,1 +1,9 @@
 # prueba_final_modulo_5
+
+Descargar los archivos train.zip y test1.zip en la carpeta /images, desde los siguientes enlaces:
+
+https://storage.googleapis.com/kagglesdsdata/competitions/3362/31148/train.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1621319348&Signature=FUoNz62QditCHHKBvskz3facap5dwLtmvtQD8VImoO1paG%2FkCZBWFPThhPPSYSBGG6anQeAQtwnRdG7UgvtaMJ89K8ocs5bjCZnJ1slhduHYFynq%2Bv4tVwCLWaIgJkM3PzMCgCT32Fr0o2JBLxaxMJHjyvFXLx9Iv0o40k2bXfFdVtgx4vhsWq33euQMTqZlSUtrkoWMmUS2TcQvYlW6hfz1zYiyI7sYgVTBcXTKhCB06D6bZR0128nPaw7sjsxQsYLFSu8SOR6pA7pRWewNDZnRN9JrlztDfqjlZktNlmJsVgxnGnOhcbtCe7m7OtlW%2FmNCQIR6TEIGBaKb49mx7Q%3D%3D&response-content-disposition=attachment%3B+filename%3Dtrain.zip
+
+https://storage.googleapis.com/kagglesdsdata/competitions/3362/31148/test1.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1621319309&Signature=n6LIAuTfdBTTgtYRCpFeGFQzLR4mfzl1e%2FoA1RsTbzPUNjtN2txdCeqyLTfWTu%2BWGLVBtMJ68DKO1fHMY8sqPxDHxi59iu3FF%2FK06qsRWo4IXAcygQoYsZOrswLV2usuoaCTHkQTHnSv54QM7Xlv9EUh9KsuFdj085MYXKDENK6RCjnb958onR%2BOiGeR6waP0ZTjRABXeyO2cdSjWPC5jdFg%2Bt0Sbe9tL7qFNAUxstSDqDYYVtnVocfZhp4BznTxe7Tve4iYHRfey0mr7kcBrP887bAM0pBL6GcBC%2BStoNawS%2B5%2FMeBhYtPeTqQbVCfZ%2FBpXtcOEkEE9hUBAXR7J3w%3D%3D&response-content-disposition=attachment%3B+filename%3Dtest1.zip
+
+Los archivos están probados en Jupyter Notebook, no en Google Colab. Más que nada por la ruta a los archivos.
